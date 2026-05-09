@@ -1,21 +1,29 @@
-# Business Questions & Insights
-## Stakeholder Review — AtliQ Mart Promotional Performance Analysis
+# 📊 Business Questions & Insights 🚀  
+## Stakeholder Review AtliQ Mart Promotional Performance Analysis
 
 *10 strategic questions grounded in the actual data from the Diwali 2023 and Sankranti 2024 campaigns.*
 
 ---
 
-### Q1. Which state witnessed the highest increase in revenue — and what explains its performance?
+## Q1. 🏙️ Which state witnessed the highest increase in revenue and what explains its performance?
 
-**Answer: Madurai at 120% IR% — outperforming cities with far larger store networks.**
+**Answer: Madurai at 120% IR% outperforming cities with far larger store networks.**
 
-Madurai leads all 10 cities in the network on IR%, despite having only 4 stores compared to Bengaluru's 10. The 120% figure means Madurai generated 20% more revenue during the promotion period than its baseline — a clean, meaningful lift.
+-> Madurai leads all 10 cities in the network on IR%, despite having only 4 stores compared to Bengaluru's 10.
 
-What makes this analytically interesting is that Chennai (116.84%) and Bengaluru (116.05%) — both larger markets with more stores — trail Madurai. This suggests the performance gap is not about scale or brand presence. It is about promotional fit: the right promotion types reaching the right customer base in the right market. Understanding Madurai's specific promotion mix and store execution and testing whether it can be replicated in Mangalore (98.82%) or Visakhapatnam (94.39%) is a direct action item.
+-> The 120% figure means Madurai generated 20% more revenue during the promotion period than its baseline a clean, meaningful lift.
+
+-> What makes this analytically interesting is that Chennai (116.84%) and Bengaluru (116.05%) both larger markets with more stores trail Madurai.
+
+-> This suggests the performance gap is not about scale or brand presence.
+
+-> It is about promotional fit: the right promotion types reaching the right customer base in the right market. 
+
+-> Understanding Madurai's specific promotion mix and store execution and testing whether it can be replicated in Mangalore (98.82%) or Visakhapatnam (94.39%) is a direct        action item.
 
 ---
 
-### Q2. Which promotion resulted in the highest incremental revenue?
+## Q2. 💰 Which promotion resulted in the highest incremental revenue?
 
 **Answer: 500 Cashback — ₹91M IR, driven by Diwali's ₹77M contribution.**
 
@@ -25,7 +33,7 @@ The mechanics explain why. 500 Cashback on a ₹1,200 product means the customer
 
 ---
 
-### Q3. Which promotion resulted in the lowest incremental revenue — and should it be retired?
+## Q3. ⚠️ Which promotion resulted in the lowest incremental revenue — and should it be retired?
 
 **Answer: 25% OFF at –₹3M IR — and yes, all three discount promos should be reconsidered.**
 
@@ -37,7 +45,7 @@ Before retiring them entirely, the right question is whether the issue is the di
 
 ---
 
-### Q4. Which product showed the highest lift in revenue — and what does it tell us about the portfolio?
+## Q4. 📦 Which product showed the highest lift in revenue — and what does it tell us about the portfolio?
 
 **Answer: Atliq Waterproof Immersion Rod at 266.19% IR% — and it confirms Home Appliances as the promotional anchor category.**
 
@@ -49,7 +57,7 @@ This has direct implications for budget allocation in the next campaign: promoti
 
 ---
 
-### Q5. Which product showed the lowest lift — and what does that mean for how we promote it?
+## Q5. 🧴 Which product showed the lowest lift — and what does that mean for how we promote it?
 
 **Answer: Personal Care category at –34.20% IR% — and it should be removed from discount-based promotions entirely.**
 
@@ -59,7 +67,7 @@ Personal Care customers in AtliQ Mart's network appear to be habitual buyers —
 
 ---
 
-### Q6. Between Diwali and Sankranti, which campaign should receive greater investment in future?
+## Q6. 🎯 Between Diwali and Sankranti, which campaign should receive greater investment in future?
 
 **Answer: Diwali — ₹89M IR vs ₹66M IR — because its promotion mix is more revenue-efficient.**
 
@@ -69,7 +77,7 @@ The implication is not that Sankranti should be deprioritised entirely, but that
 
 ---
 
-### Q7. BOGOF generated 372K incremental units — more than all other promotion types combined. Is that success?
+## Q7. 📦 BOGOF generated 372K incremental units — more than all other promotion types combined. Is that success?
 
 **Answer: It depends entirely on the objective — and that objective needs to be defined before the next campaign.**
 
@@ -81,7 +89,7 @@ The problem is that campaigns often don't define their objective precisely enoug
 
 ---
 
-### Q8. Bengaluru has 10 stores — the most in the network — but its IR% is only 116.05%. Is that a problem?
+## Q8. 📍 Bengaluru has 10 stores — the most in the network — but its IR% is only 116.05%. Is that a problem?
 
 **Answer: It's underperformance relative to smaller markets, but it reflects a structural reality worth understanding.**
 
@@ -91,7 +99,7 @@ The more relevant question is: given Bengaluru's 10-store footprint and the prom
 
 ---
 
-### Q9. Home Appliances showed 628.78% ISU% — more than any other category. How should that change our store inventory planning?
+## Q9. 🏠 Home Appliances showed 628.78% ISU% — more than any other category. How should that change our store inventory planning?
 
 **Answer: It should trigger a pre-promotion inventory buffer for Home Appliances in every city before the next festive campaign.**
 
@@ -101,7 +109,7 @@ Given that this is now a confirmed, repeatable pattern — Home Appliances respo
 
 ---
 
-### Q10. If only one change could be made to improve the next campaign's performance, what should it be?
+## Q10. 🧠 If only one change could be made to improve the next campaign's performance, what should it be?
 
 **Answer: Remove all three discount-based promotion types (25% OFF, 33% OFF, 50% OFF) and reallocate that budget to 500 Cashback on Home Appliances and Home Care SKUs.**
 
@@ -113,4 +121,4 @@ One structural change. The direction is clear. The data is already there to supp
 
 ---
 
-*AtliQ Mart Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024*
+*AtliQ Mart Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024* ✨
