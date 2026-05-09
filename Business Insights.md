@@ -190,5 +190,3 @@
   - One structural change can fix campaign efficiency  
 
 ---
-
-*AtliQ Mart Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024* ✨
