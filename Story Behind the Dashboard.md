@@ -1,5 +1,5 @@
 # 🧠 The Story Behind the Dashboard 📊  
-*AtliQ Mart Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024*
+*Festive Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024*
 
 ---
 
@@ -47,8 +47,8 @@ One question stood out:
 
 The result came back with just two products 👇
 
-- 🌧️ **Atliq Waterproof Immersion Rod — ₹1,190**  
-- 🛏️ **Atliq Double Bedsheet Set — ₹1,020**
+- 🌧️ **Atliq Waterproof Immersion Rod ₹1,190**  
+- 🛏️ **Atliq Double Bedsheet Set ₹1,020**
 
 BOGOF on ₹1,000+ products 😳
 
@@ -108,7 +108,7 @@ And that raises a hard question:
 
 ---
 
-## 🎆 Diwali vs Sankranti — Not All Festivals Perform the Same
+## 🎆 Diwali vs Sankranti Not All Festivals Perform the Same
 
 Revenue comparison:
 
