@@ -1,8 +1,4 @@
-# The Story Behind the Dashboard 🚀
-
----
-
-## The Meeting Nobody Wanted to Have 😬
+## 🧠 The Meeting Nobody Wanted to Have
 
 Every festive season, AtliQ Mart runs promotions. Discounts, cashbacks, bundle deals — the works. The stores fill up. The tills ring. And then the season ends, and someone has to write the report.
 
@@ -18,7 +14,7 @@ That question is harder to answer than it looks. And answering it honestly requi
 
 ---
 
-## Two Products That Changed the Conversation 🧠
+## 🧩 Two Products That Changed the Conversation
 
 Before any dashboard existed, the first step was SQL. Raw queries against the transaction data, asked to produce specific answers to specific questions.
 
@@ -37,7 +33,7 @@ The short answer, as the dashboard later confirmed: for these specific products,
 
 ---
 
-## What Bengaluru Knows That Vijayawada Doesn't 📍
+## 🏙️ What Bengaluru Knows That Vijayawada Doesn't
 
 The store distribution query returned a simple ranked list: **Bengaluru has 10 stores. Chennai has 8. Hyderabad has 7. Trivandrum and Vijayawada have 2 each.**
 
@@ -53,7 +49,7 @@ Visakhapatnam has 5 stores — a meaningful presence. But its promotional result
 
 ---
 
-## The Diwali vs Sankranti Calculation 🎇
+## 🎉 The Diwali vs Sankranti Calculation
 
 The campaign revenue query required careful SQL. Because different promotion types have different revenue mechanics — BOGOF doesn't just discount, it doubles units delivered; 500 Cashback reduces effective price per unit by a fixed ₹500; percentage discounts apply proportionally — the revenue calculation had to account for each promotion type's mechanics separately using a `CASE WHEN` structure.
 
@@ -72,7 +68,7 @@ The two campaigns were doing different things, even though they looked similar i
 
 ---
 
-## The Category That Shocked Everyone ⚡
+## ⚡ The Category That Shocked Everyone
 
 The Diwali category ISU% ranking used a CTE — building the before/after comparison first, then applying `ROW_NUMBER() OVER (ORDER BY ISU% DESC)` to rank categories cleanly. The result:
 
@@ -92,7 +88,7 @@ These two data points — placed side by side in the same ranking table — cont
 
 ---
 
-## The Three Promotions That Were Never Supposed to Show Up Here 💥
+## 🚨 The Three Promotions That Were Never Supposed to Show Up Here
 
 The promotion type analysis was built to answer a simple question: which promotion type generated the most revenue? The expectation was a ranking with some promotions better than others.
 
@@ -110,7 +106,7 @@ What the dashboard has ensured is that the conversation can no longer be avoided
 
 ---
 
-## What the Dashboard Was Actually For 📊
+## 📊 What the Dashboard Was Actually For
 
 The Power BI dashboard didn't discover any of this. The MySQL queries discovered it. The dashboard made it possible for the people who needed to act on it to see it without running SQL themselves.
 
@@ -124,4 +120,4 @@ Those three questions now have answers. What happens next is a planning decision
 
 ---
 
-*AtliQ Mart Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024*
+*AtliQ Mart Promotional Performance Analysis | MySQL & Power BI | Diwali 2023 & Sankranti 2024* ✨
