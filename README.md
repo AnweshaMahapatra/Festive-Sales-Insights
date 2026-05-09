@@ -1,9 +1,12 @@
-# 📊Promotional Performance Analysis  
+# 📊FESTIVE SALES Analysis  
 ### MySQL & Power BI | Diwali 2023 & Sankranti 2024  
 
 > 🎯 *A two-part analytical project examining promotional effectiveness using MySQL (analysis) + Power BI (visual storytelling) to improve future festive campaign decisions.*
 
 ---
+
+## LIVE DASHBOARD LINK :
+https://app.powerbi.com/groups/me/reports/10bec79c-50ed-4ad3-8cc0-723dceef87ad?pbi_source=desktop
 
 # 🧾 Overview
 
@@ -110,6 +113,7 @@
 
 ### 🏬 Page 1 Store Performance
 
+<img width="936" height="568" alt="Store performance analysis" src="https://github.com/user-attachments/assets/663b8092-7240-4949-9eba-59934a396bfb" />
 
 
 - 📉 Bottom stores by IR & ISU
@@ -120,15 +124,19 @@
 
 ### 🎁 Page 2 Promotion Analysis
 
+<img width="790" height="512" alt="P analysis" src="https://github.com/user-attachments/assets/4ac9a639-6fdf-4f1e-af11-4ffc197fffbe" />
+
 
 - 📊 IR & ISU by promotion type
 - 🪔 Diwali vs 🌾 Sankranti comparison
 - 💡 Promo effectiveness comparison
 
----
+--
+
 
 ### 📦 Page 3 Product & Category Insights
 
+<img width="795" height="499" alt="A" src="https://github.com/user-attachments/assets/16750dca-ecf4-4f49-8e6d-f38bf9972357" />
 
 
 - 📦 Category-level before/after performance
@@ -236,9 +244,11 @@
 
 # 👤 Author
 
+**Anwesha Mahapatra**
+
 - 💼 Data Analyst  
 - 📊 MySQL | Power BI | Business Intelligence  
 
-- 🔗 LinkedIn: yourprofile  
-- 💻 GitHub: yourusername  
-- 📧 Email: your.email@domain.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/anweshamahapatra-dataanalyst/ 
+- 💻 GitHub:https://github.com/AnweshaMahapatra  
+- 📧 Email: anweshamahapatra8888@gmail.com  
