@@ -131,8 +131,8 @@
 
 
 
-📦 Category-level before/after performance
-🏆 Top 5 products by IR & ISU
+- 📦 Category-level before/after performance
+- 🏆 Top 5 products by IR & ISU
 
 ---
 
@@ -141,29 +141,29 @@
 ---
 
 ## 🏙️ Cities & Stores
-🥇 Madurai: **120% IR% (Top performer)**
-❌ Visakhapatnam: **94.39% IR% (Only negative city)**
-🏙️ Bengaluru: Most stores (10)
-🏚️ Vijayawada & Trivandrum: Least stores (2 each)
+- 🥇 Madurai: **120% IR% (Top performer)**
+- ❌ Visakhapatnam: **94.39% IR% (Only negative city)**
+- 🏙️ Bengaluru: Most stores (10)
+- 🏚️ Vijayawada & Trivandrum: Least stores (2 each)
 
 ---
 
 ## 🎁 Promotion Performance
 
 ### 🏆 Best Promotions
-💳 500 Cashback → **₹91M IR (Best revenue driver)**
-📦 BOGOF → **372K ISU (Best volume driver)**
+- 💳 500 Cashback → **₹91M IR (Best revenue driver)**
+- 📦 BOGOF → **372K ISU (Best volume driver)**
 
 ---
 
 ### ❌ Worst Promotions
-❌ 25% OFF → –₹3M
-❌ 33% OFF → –₹2M
-❌ 50% OFF → –₹1M
+- ❌ 25% OFF → –₹3M
+- ❌ 33% OFF → –₹2M
+- ❌ 50% OFF → –₹1M
 
 👉 Insight:
-Discounts = revenue loss
-Volume gain was NOT enough to compensate
+- Discounts = revenue loss
+- Volume gain was NOT enough to compensate
 
 ---
 
@@ -171,38 +171,32 @@ Volume gain was NOT enough to compensate
 
 🔌 Home Appliances:
 
-🚀 IR%: **265.21%**
-📈 ISU%: **628.78% (Highest spike)**
+- 🚀 IR%: **265.21%**
+- 📈 ISU%: **628.78% (Highest spike)**
 
 🧴 Personal Care:
 
-❌ IR%: **–34.20% (Only negative category)**
-🛒 Grocery & Staples:
-📉 Very low incremental lift
+- ❌ IR%: **–34.20% (Only negative category)**
+- 🛒 Grocery & Staples:
+- 📉 Very low incremental lift
 
 ---
 
 ## 🏆 Top Products
 
-🥇 Atliq Waterproof Immersion Rod → **266.19% IR%**
-🧺 Atliq Farm Chakki Atta (1KG) → **118K units sold**
-🎁 Home Essential Combo → **₹91M IR (Highest revenue product)**
+- 🥇 Atliq Waterproof Immersion Rod → **266.19% IR%**
+- 🧺 Atliq Farm Chakki Atta (1KG) → **118K units sold**
+- 🎁 Home Essential Combo → **₹91M IR (Highest revenue product)**
 
 ---
 
 # 📁 Repository Structure
 
-📄 README.md → Overview
-📄 Steps_Followed.md → Full workflow
-📄 SQL_and_DAX_Reference.md → Queries + formulas
- 📄 Story Behind Dashboard.md → Business narrative
- 📄 Business Questions.md → Insights Q&A
-
-### 📂 Folders
-
-- 🧠 sql/ → All SQL queries
-- 📊 dashboard/ → Power BI file (.pbix)
-- 📁 exports/ → PDF report
+- 📄 README.md → Overview
+- 📄 Steps_Followed.md → Full workflow
+- 📄 SQL_and_DAX_Reference.md → Queries + formulas
+- 📄 Story Behind Dashboard.md → Business narrative
+- 📄 Business Questions.md → Insights Q&A
 
 ---
 
