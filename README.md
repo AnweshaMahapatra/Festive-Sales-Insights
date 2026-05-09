@@ -201,10 +201,10 @@ https://app.powerbi.com/groups/me/reports/10bec79c-50ed-4ad3-8cc0-723dceef87ad?p
 # 📁 Repository Structure
 
 - 📄 README.md → Overview
-- 📄 Steps_Followed.md → Full workflow
-- 📄 SQL_and_DAX_Reference.md → Queries + formulas
+- 📄 Festive Sales Insights.pbix
+- 📄 Retail Insights Report pdf
 - 📄 Story Behind Dashboard.md → Business narrative
-- 📄 Business Questions.md → Insights Q&A
+- 📄 Business Insights.md → Insights Q&A
 
 ---
 
