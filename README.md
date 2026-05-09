@@ -1,4 +1,4 @@
-# 📊 AtliQ Mart — Promotional Performance Analysis  
+# 📊Promotional Performance Analysis  
 ### MySQL & Power BI | Diwali 2023 & Sankranti 2024  
 
 > 🎯 *A two-part analytical project examining promotional effectiveness using MySQL (analysis) + Power BI (visual storytelling) to improve future festive campaign decisions.*
@@ -37,7 +37,7 @@
 
 # 🏗️ Project Structure
 
-## 🧠 Part 1 — MySQL (Analysis Layer)
+## 🧠 Part 1 MySQL (Analysis Layer)
 - Run ad-hoc SQL queries
 - Answer business questions directly
 - Analyze:
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 Part 2 — Power BI (Visualization Layer)
+## 📊 Part 2 Power BI (Visualization Layer)
 - Import MySQL data into Power BI
 - Build relationships using keys:
   - `product_code`
@@ -61,7 +61,7 @@
 
 # ⚙️ Steps Followed
 
-## 🧱 Step 1 — Data Load (MySQL)
+## 🧱 Step 1 Data Load (MySQL)
 - Loaded raw tables:
   - `fact_events`
   - `dim_stores`
@@ -70,7 +70,7 @@
 
 ---
 
-## 🔍 Step 2 — Ad-Hoc SQL Analysis
+## 🔍 Step 2 Ad-Hoc SQL Analysis
 - Identified:
   - 🛒 High-value BOGOF products (> ₹500)
   - 🏬 Store distribution by city
@@ -80,13 +80,13 @@
 
 ---
 
-## 📥 Step 3 — Power BI Import
+## 📥 Step 3  Power BI Import
 - Imported all tables
 - Built relationships between fact & dimensions
 
 ---
 
-## 🧮 Step 4 — DAX Measures
+## 🧮 Step 4 DAX Measures
 
 ### 📦 Quantity After Promotion
 - BOGOF doubles units
@@ -106,25 +106,33 @@
 
 ---
 
-## 📊 Step 5 — Dashboard Pages
+## 📊 Step 5 Dashboard Pages
 
-### 🏬 Page 1 — Store Performance
+### 🏬 Page 1 Store Performance
+
+
+
 - 📉 Bottom stores by IR & ISU
 - 🏙️ City-wise IR% ranking
 - 🛒 Category performance per store
 
 ---
 
-### 🎁 Page 2 — Promotion Analysis
+### 🎁 Page 2 Promotion Analysis
+
+
 - 📊 IR & ISU by promotion type
 - 🪔 Diwali vs 🌾 Sankranti comparison
 - 💡 Promo effectiveness comparison
 
 ---
 
-### 📦 Page 3 — Product & Category Insights
-- 📦 Category-level before/after performance
-- 🏆 Top 5 products by IR & ISU
+### 📦 Page 3 Product & Category Insights
+
+
+
+📦 Category-level before/after performance
+🏆 Top 5 products by IR & ISU
 
 ---
 
@@ -133,61 +141,62 @@
 ---
 
 ## 🏙️ Cities & Stores
-- 🥇 Madurai: **120% IR% (Top performer)**
-- ❌ Visakhapatnam: **94.39% IR% (Only negative city)**
-- 🏙️ Bengaluru: Most stores (10)
-- 🏚️ Vijayawada & Trivandrum: Least stores (2 each)
+🥇 Madurai: **120% IR% (Top performer)**
+❌ Visakhapatnam: **94.39% IR% (Only negative city)**
+🏙️ Bengaluru: Most stores (10)
+🏚️ Vijayawada & Trivandrum: Least stores (2 each)
 
 ---
 
 ## 🎁 Promotion Performance
 
 ### 🏆 Best Promotions
-- 💳 500 Cashback → **₹91M IR (Best revenue driver)**
-- 📦 BOGOF → **372K ISU (Best volume driver)**
+💳 500 Cashback → **₹91M IR (Best revenue driver)**
+📦 BOGOF → **372K ISU (Best volume driver)**
 
 ---
 
 ### ❌ Worst Promotions
-- ❌ 25% OFF → –₹3M
-- ❌ 33% OFF → –₹2M
-- ❌ 50% OFF → –₹1M
+❌ 25% OFF → –₹3M
+❌ 33% OFF → –₹2M
+❌ 50% OFF → –₹1M
 
 👉 Insight:
-- Discounts = revenue loss
-- Volume gain was NOT enough to compensate
+Discounts = revenue loss
+Volume gain was NOT enough to compensate
 
 ---
 
 ## 📦 Category Insights
 
-- 🔌 Home Appliances:
-  - 🚀 IR%: **265.21%**
-  - 📈 ISU%: **628.78% (Highest spike)**
+🔌 Home Appliances:
 
-- 🧴 Personal Care:
-  - ❌ IR%: **–34.20% (Only negative category)**
+🚀 IR%: **265.21%**
+📈 ISU%: **628.78% (Highest spike)**
 
-- 🛒 Grocery & Staples:
-  - 📉 Very low incremental lift
+🧴 Personal Care:
+
+❌ IR%: **–34.20% (Only negative category)**
+🛒 Grocery & Staples:
+📉 Very low incremental lift
 
 ---
 
 ## 🏆 Top Products
 
-- 🥇 Atliq Waterproof Immersion Rod → **266.19% IR%**
-- 🧺 Atliq Farm Chakki Atta (1KG) → **118K units sold**
-- 🎁 Home Essential Combo → **₹91M IR (Highest revenue product)**
+🥇 Atliq Waterproof Immersion Rod → **266.19% IR%**
+🧺 Atliq Farm Chakki Atta (1KG) → **118K units sold**
+🎁 Home Essential Combo → **₹91M IR (Highest revenue product)**
 
 ---
 
 # 📁 Repository Structure
 
-- 📄 README.md → Overview
-- 📄 Steps_Followed.md → Full workflow
-- 📄 SQL_and_DAX_Reference.md → Queries + formulas
-- 📄 Story Behind Dashboard.md → Business narrative
-- 📄 Business Questions.md → Insights Q&A
+📄 README.md → Overview
+📄 Steps_Followed.md → Full workflow
+📄 SQL_and_DAX_Reference.md → Queries + formulas
+ 📄 Story Behind Dashboard.md → Business narrative
+ 📄 Business Questions.md → Insights Q&A
 
 ### 📂 Folders
 
